@@ -12,3 +12,6 @@ In case you think to have found a security issue with libgit2, please do not
 open a public issue.  Instead, you can report the issue to the private mailing
 list [security@libgit2.com](mailto:security@libgit2.com). We will acknowledge
 receipt of your message in at most three days and try to clarify further steps.
+
+
+
